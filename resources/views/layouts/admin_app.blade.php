@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Hospital Admin</title>
+    <title>Hardware Store</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{url('assets/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
